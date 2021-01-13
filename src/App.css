@@ -29,3 +29,16 @@ body {
     flex-direction: column;
   }
 }
+
+.map{
+ background-color: white;
+ height: 500px; 
+ padding: 1rem;
+ margin-top: 16px;
+ border-radius: 20px;
+ box-shadow: 0 0 8px -4px black;
+}
+
+.leaflet-container {
+  height: 100%;
+}
